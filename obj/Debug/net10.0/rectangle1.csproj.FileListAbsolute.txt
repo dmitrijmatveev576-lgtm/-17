@@ -1,0 +1,14 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\bin\Debug\net10.0\rectangle1.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\bin\Debug\net10.0\rectangle1.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\bin\Debug\net10.0\rectangle1.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\bin\Debug\net10.0\rectangle1.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\bin\Debug\net10.0\rectangle1.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\rectangle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\rectangle1.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\rectangle1.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\rectangle1.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\rectangle1.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\refint\rectangle1.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\rectangle1.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\rectangle1.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\rectangle1\obj\Debug\net10.0\ref\rectangle1.dll
